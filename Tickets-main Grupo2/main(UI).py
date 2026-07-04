@@ -1,3 +1,4 @@
+#Autores: Matias Lasorsa y Antonella Lasorsa
 import sys, os, random, subprocess, json, time
 from tkinter import Tk,Entry,Button,StringVar,Label,Text
 opcion:int=0

@@ -1,3 +1,4 @@
+#Autores: Matias Lasorsa y Antonella Lasorsa
 import sys, os, random, subprocess, json
 opcion:int=0
 ticket={}

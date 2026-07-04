@@ -1,3 +1,4 @@
+#Autores: Matias Lasorsa y Antonella Lasorsa
 from random import randrange,choice
 import sys, os, subprocess, time
 opcion:int=0

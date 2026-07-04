@@ -1,4 +1,6 @@
-JUEGO DE TA-TE-TI Instrucciones
+JUEGO DE TA-TE-TI Instrucciones 
+
+Autores Grupo 2: Matias Lasorsa y Antonella Lasorsa
 
 main.py--> Juego por consola 
     Al iniciar el juego, saldra un menu con 3 opciones: "2 jugadores" , "VS PC" y "Salir".

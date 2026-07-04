@@ -1,3 +1,4 @@
+#Autores: Matias Lasorsa y Antonella Lasorsa
 from random import randrange,choice
 from tkinter import Tk,Entry,Button,StringVar,Label,Text
 import sys, os, subprocess, time
